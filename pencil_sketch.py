@@ -16,7 +16,7 @@ import cv2
 import streamlit as st
 import numpy as np
 
-st.title('MAKE ANY IMAGE INTO PENCIL SKETCH')
+st.title('TURN ANY IMAGE INTO PENCIL SKETCH')
 
 # File uploader
 uploaded_file = st.file_uploader("Choose an image...", type="jpg")
